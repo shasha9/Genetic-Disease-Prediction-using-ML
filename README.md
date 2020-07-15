@@ -1,1 +1,1 @@
-# Genetic-Disease-Prediction-using-ML
+# Genetic Disease Prediction using ML
