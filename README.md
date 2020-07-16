@@ -1,3 +1,3 @@
 # Genetic Disease Prediction using ML
-This project
+This project focuses on
 
